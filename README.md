@@ -1,7 +1,5 @@
 # Assessing Your User Interface and Git Learning
 
---Test--
-
 - The objective of this challenge is test your knowledge on all of the topics surrounding user interface and git you learned this week.
 
 - Answers to your written questions will be recorded in [Answers.md](Answers.md)
